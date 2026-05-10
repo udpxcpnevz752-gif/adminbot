@@ -3,3 +3,6 @@ httpx
 qrcode
 pillow
 psycopg2-binary
+flask
+pyTelegramBotAPI
+gunicorn
